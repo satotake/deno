@@ -1,2 +1,2 @@
-tasks:
-- command: sudo apt-get update && sudo apt-get install strace
+image:
+  file: Dockerfile
